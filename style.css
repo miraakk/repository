@@ -2,9 +2,10 @@ html {
   height: 100%;
   width: 100%;
 }
-div:hover{
-  background-color:black;
-}
 div{
   background-color:orange;
+}
+
+div:hover{
+  background-color:black;
 }
