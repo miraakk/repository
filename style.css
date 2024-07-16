@@ -5,3 +5,6 @@ html {
 div:hover{
   background-color:black;
 }
+div{
+  background-color:orange;
+}
